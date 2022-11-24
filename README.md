@@ -1,3 +1,3 @@
 # multibranch-pipeline-demo
-Jenkins Multibranch Pipeline Example Repo
-# edit by Samantha Nov24 10:55am
+Jenkins Multibranch Pipeline Example Repo 
+# Samantha's edit Nov 24 2:58pm
